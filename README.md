@@ -1,6 +1,5 @@
 ## Harvard University Python Programming Course
 
-- **Target Audience:** Suitable for all levels.
 - **Key Focus Areas:**
   - Web app development with **Python, JavaScript, SQL**.
   - Frameworks like **Django and React**.
