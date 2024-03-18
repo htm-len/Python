@@ -1,4 +1,4 @@
-## Harvard University Python Programming Course
+# Harvard University Python Programming Course
 
 - **Key Focus Areas:**
   - Web app development with **Python, JavaScript, SQL**.
