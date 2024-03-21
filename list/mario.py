@@ -3,7 +3,15 @@ def main():
     print_square(3)
 
 def print_square(size):
-    # Iterate through each row in the square
+   # For each row in square 
+    for i in range(size):
+        print("#" * 3)
+        
+   
+main()
+
+'''
+     # Iterate through each row in the square
     for i in range(size):
         # Iterate through each "brick" in the row
         for j in range(size):
@@ -11,5 +19,4 @@ def print_square(size):
             print("#", end="")
         # After completing a row, print a newline to start a new row
         print()
-
-main()
+'''
