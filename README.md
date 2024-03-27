@@ -16,7 +16,7 @@ Dive into Harvard University's comprehensive Python programming course, meticulo
 - **(01:50:24) Lecture 1 - Conditionals** - [Access Here](https://github.com/htm-len/Python/tree/main/condititionals)
 - **(02:46:23) Lecture 2 - Loops** - [Access Here](https://github.com/htm-len/Python/tree/main/loops)
 - **(04:07:10) Lecture 3 - Exceptions** - [Access Here](https://github.com/htm-len/Python/tree/main/exceptions)
-- **(04:51:45) Lecture 4 - Libraries**
+- **(04:51:45) Lecture 4 - Libraries** [Access Here](https://github.com/htm-len/Python/tree/main/libraries) 
 - **(06:09:15) Lecture 5 - Unit Tests**
 - **(07:00:22) Lecture 6 - File I/O**
 - **(08:32:32) Lecture 7 - Regular Expressions**
