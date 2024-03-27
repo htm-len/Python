@@ -1,23 +1,37 @@
 # Harvard University Python Programming Course 🐍
 
-We dove into Harvard's Python programming course, tailored to equip participants with vital skills for the tech industry. The course emphasized foundational coding and advanced web development.
+Dive into Harvard University's comprehensive Python programming course, meticulously designed to arm participants with essential technical skills for the rapidly evolving tech landscape. This course bridges fundamental programming concepts with advanced web development techniques. [Explore the Full Course Here](https://youtu.be/nLRL_NcnK-4?si=bbdXYEZxRMQ2gRtt).
 
 ## 🎯 Key Focus Areas
 
-- **Web App Development**: Crafted dynamic websites with **Python, JavaScript, SQL**.
-- **Modern Frameworks**: Gained experience with **Django** and **React** for cutting-edge web solutions.
-- **Database & Security**: Mastered database design and security to enhance UX.
-- **Cloud Services & APIs**: Utilized APIs and services like **GitHub** for collaboration.
+- **Web App Development**: Developed dynamic websites using **Python, JavaScript, SQL**, ensuring a practical understanding of web development essentials.
+- **Modern Frameworks**: Enhanced web solutions with hands-on experience in **Django** and **React**, preparing participants for industry demands.
+- **Database & Security**: Delved deep into database design and security practices, crucial for improving user experience and data protection.
+- **Cloud Services & APIs**: Leveraged APIs and cloud services like **GitHub** for effective collaboration and project management.
+
+### 📚 Lecture Series Git Directories 
+
+- **(00:00:00) Introduction**
+- **(00:04:48) Lecture 0 - Functions, Variables** - [Access Here](https://github.com/htm-len/Python/tree/main/functions)
+- **(01:50:24) Lecture 1 - Conditionals** - [Access Here](https://github.com/htm-len/Python/tree/main/condititionals)
+- **(02:46:23) Lecture 2 - Loops** - [Access Here](https://github.com/htm-len/Python/tree/main/loops)
+- **(04:07:10) Lecture 3 - Exceptions** - [Access Here](https://github.com/htm-len/Python/tree/main/exceptions)
+- **(04:51:45) Lecture 4 - Libraries**
+- **(06:09:15) Lecture 5 - Unit Tests**
+- **(07:00:22) Lecture 6 - File I/O**
+- **(08:32:32) Lecture 7 - Regular Expressions**
+- **(10:37:35) Lecture 8 - Object-Oriented Programming**
+- **(13:28:47) Lecture 9 - Et Cetera**
 
 ## 📘 Essentials
 
-- **Debugging & Testing**: Identified and fixed code errors.
-- **Libraries**: Used third-party libraries to enhance projects.
+- **Debugging & Testing**: Focused on identifying and rectifying code inaccuracies, an essential skill for any developer.
+- **Libraries**: Integrated third-party libraries to expand functionality and enhance project capabilities.
 
 ## 🖥️ Hands-On Learning
 
-Participants engaged in projects inspired by real-world challenges, refining their skills.
+Participants tackled projects inspired by real-world scenarios, honing their skills through practical application.
 
 ## 📋 Requirements
 
-Only a **web browser** was needed. We embarked on a journey into Python programming, preparing to shape the future.
+The course was designed with accessibility in mind, requiring only a **web browser** to begin the journey into Python programming. This approach enables a broad audience to prepare for future opportunities in technology.
