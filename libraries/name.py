@@ -1,4 +1,5 @@
-import sys  # Import sys to access command-line arguments.
+import sys #Sys Module
+# Import sys to access command-line arguments.
 
 # Exit the program with a message if fewer than 2 arguments are provided (including the script name).
 if len(sys.argv) < 2:
