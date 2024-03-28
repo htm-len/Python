@@ -1,1 +1,1 @@
-#treats this folder a package 
+# Initialization file for Python packages
