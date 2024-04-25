@@ -20,7 +20,7 @@ Dive into Harvard University's comprehensive Python programming course, meticulo
 - **(06:09:15) Lecture 5 - Unit Tests** [Access Here](https://github.com/htm-len/Python/tree/main/unit-test)
 - **(07:00:22) Lecture 6 - File I/O** [Access Here](https://github.com/htm-len/Python/tree/main/file-io)
 - **(08:32:32) Lecture 7 - Regular Expressions** [Access Here](https://github.com/htm-len/Python/tree/main/regular-expressions) 
-- **(10:37:35) Lecture 8 - Object-Oriented Programming**
+- **(10:37:35) Lecture 8 - Object-Oriented Programming**[Access Here](https://github.com/htm-len/Python/tree/main/Object-Oriented)
 - **(13:28:47) Lecture 9 - Et Cetera**
 
 ## 📘 Essentials
