@@ -2,6 +2,13 @@
 
 Dive into Harvard University's comprehensive Python programming course, meticulously designed to arm participants with essential technical skills for the rapidly evolving tech landscape. This course bridges fundamental programming concepts with advanced web development techniques. [Explore the Full Course Here](https://youtu.be/nLRL_NcnK-4?si=bbdXYEZxRMQ2gRtt).
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Python application](https://github.com/htm-len/Python/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/htm-len/Python/actions/workflows/python-app.yml)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/)
+[![Cloud](https://img.shields.io/badge/Cloud-Services-blue.svg)](https://aws.amazon.com/)
+[![Web Development](https://img.shields.io/badge/Web_Development-Full_Stack-blue.svg)](https://developer.mozilla.org/)
+
+
 ## 🎯 Key Focus Areas
 
 - **Web App Development**: Developed dynamic websites using **Python, JavaScript, SQL**, ensuring a practical understanding of web development essentials.
@@ -13,14 +20,14 @@ Dive into Harvard University's comprehensive Python programming course, meticulo
 
 - **(00:00:00) Introduction**
 - **(00:04:48) Lecture 0 - Functions, Variables** - [Access Here](https://github.com/htm-len/Python/tree/main/functions)
-- **(01:50:24) Lecture 1 - Conditionals** - [Access Here](https://github.com/htm-len/Python/tree/main/condititionals)
+- **(01:50:24) Lecture 1 - Conditionals** - [Access Here](https://github.com/htm-len/Python/tree/main/conditionals)
 - **(02:46:23) Lecture 2 - Loops** - [Access Here](https://github.com/htm-len/Python/tree/main/loops)
 - **(04:07:10) Lecture 3 - Exceptions** - [Access Here](https://github.com/htm-len/Python/tree/main/exceptions)
-- **(04:51:45) Lecture 4 - Libraries** [Access Here](https://github.com/htm-len/Python/tree/main/libraries) 
-- **(06:09:15) Lecture 5 - Unit Tests** [Access Here](https://github.com/htm-len/Python/tree/main/unit-test)
-- **(07:00:22) Lecture 6 - File I/O** [Access Here](https://github.com/htm-len/Python/tree/main/file-io)
-- **(08:32:32) Lecture 7 - Regular Expressions** [Access Here](https://github.com/htm-len/Python/tree/main/regular-expressions) 
-- **(10:37:35) Lecture 8 - Object-Oriented Programming**[Access Here](https://github.com/htm-len/Python/tree/main/Object-Oriented)
+- **(04:51:45) Lecture 4 - Libraries** - [Access Here](https://github.com/htm-len/Python/tree/main/libraries) 
+- **(06:09:15) Lecture 5 - Unit Tests** - [Access Here](https://github.com/htm-len/Python/tree/main/unit-test)
+- **(07:00:22) Lecture 6 - File I/O** - [Access Here](https://github.com/htm-len/Python/tree/main/file-io)
+- **(08:32:32) Lecture 7 - Regular Expressions** - [Access Here](https://github.com/htm-len/Python/tree/main/regular-expressions) 
+- **(10:37:35) Lecture 8 - Object-Oriented Programming** - [Access Here](https://github.com/htm-len/Python/tree/main/Object-Oriented)
 - **(13:28:47) Lecture 9 - Et Cetera**
 
 ## 📘 Essentials
